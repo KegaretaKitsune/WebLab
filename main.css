@@ -1,9 +1,9 @@
 body {
-    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3sjHLCz8l1KC0FI6EYv56GsGptZL_kMQnRw&s);
+    background-image: url(https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjczMWV3MHRrOTd0cnRxN2s5dTlxNndkbzAxNXVueWdoYW05bjZrYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/XijnjGLwbq5u8/giphy.webp);
 }
 
-p, h1, li, ul,label,form {
-    color:white;
+p, h1, h2, li, ul,label,form {
+    color:rgba(255, 255, 255, 0.781);
 
     font-family: sans-serif;
     font-weight: bold;
@@ -14,3 +14,4 @@ div {
     height: 50px;
     border: 2px solid;
 }
+
